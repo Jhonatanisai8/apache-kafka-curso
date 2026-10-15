@@ -1,0 +1,2 @@
+str-producer/src/main/resources/application.properties
+str-consumer/src/main/resources/application.properties
